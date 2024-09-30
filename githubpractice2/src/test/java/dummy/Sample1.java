@@ -5,5 +5,7 @@ public class Sample1 {
 		System.out.println("dummy");
 		System.out.println("dummy");
 		System.out.println("dummy");
+		System.out.println("dummy");
+		System.out.println("dummy");
 	}
   }
