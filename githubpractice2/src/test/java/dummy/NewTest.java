@@ -5,7 +5,7 @@ public class NewTest {
 		System.out.println("dum");
 		System.out.println("dum");
 		System.out.println("dum2");
-	//	System.out.println("dum2");
+		System.out.println("dum2");
 		
 		
 		
